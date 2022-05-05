@@ -1,0 +1,17 @@
+C:\Users\mohamed\source\repos\PharmaBE\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\mohamed\source\repos\PharmaBE\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\mohamed\source\repos\PharmaBE\BusinessLayer\bin\Debug\DAL.dll
+C:\Users\mohamed\source\repos\PharmaBE\BusinessLayer\bin\Debug\DAL.pdb
+C:\Users\mohamed\source\repos\PharmaBE\BusinessLayer\bin\Debug\DAL.dll.config
+C:\Users\mohamed\source\repos\PharmaBE\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\mohamed\source\repos\PharmaBE\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\mohamed\source\repos\PharmaBE\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\mohamed\source\repos\PharmaBE\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\mohamed\source\repos\PharmaBE\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\mohamed\source\repos\PharmaBE\BusinessLayer\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\mohamed\source\repos\PharmaBE\BusinessLayer\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\mohamed\source\repos\PharmaBE\BusinessLayer\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\mohamed\source\repos\PharmaBE\BusinessLayer\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\mohamed\source\repos\PharmaBE\BusinessLayer\bin\Debug\ExcelDataReader.dll
+C:\Users\mohamed\source\repos\PharmaBE\BusinessLayer\bin\Debug\ExcelDataReader.pdb
+C:\Users\mohamed\source\repos\PharmaBE\BusinessLayer\bin\Debug\ExcelDataReader.xml
