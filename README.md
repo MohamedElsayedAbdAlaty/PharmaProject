@@ -4,7 +4,7 @@ This web application  is used to update data table seller products table  in dat
 **Technology**<br/>
 **Backend:**<br/>
 c# , asp.net core wep api,entity framework (code first from database) <br/>
-library Browse from nuget manager:<br/>
+**library Browse from nuget manager:**<br/>
 (ExcelDataReader, system.text.encoding.codespages, system.text.encoding.codes )  for handle excel sheet <br/>
 **Frontend:**<br/>
 angular 7, bootstrap 4
