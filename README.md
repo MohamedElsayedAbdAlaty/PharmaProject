@@ -1,6 +1,6 @@
 # PharmaProject
 This project is used to update data table seller products table  in database  through uploading excel sheet data  
-(-)<br/>
+<br/>
 #**Technology**<br/>
 Backend:
 c# , asp.net core wep api,entity framework (code first from database) ,
@@ -14,7 +14,7 @@ sql server 2016<br/>
 IDE:<br/>
 visual studio 2017<br/>
 visual studio code<br/>
-(-)<br/>
+
 #**steps to run:**<br/>
  after downloading project<br/>
  1-restore PharamaDB.bak  in sql server
