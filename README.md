@@ -15,7 +15,7 @@ sql server 2016<br/>
 visual studio 2017<br/>
 visual studio code<br/>
 
-**steps to run:**<br/>
+**Steps to run:**<br/>
  after downloading project<br/>
  1-restore PharamaDB.bak  in sql server 2016<br/>
  2-open  backend project  using visual studio <br/> 
