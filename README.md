@@ -1,21 +1,21 @@
 # PharmaProject
-This project is used to update data table seller products table  in database  through uploading excel sheet data  
+This web application  is used to update data table seller products table  in database  through uploading excel sheet data  
 <br/>
-#**Technology**<br/>
-Backend:
+**Technology**<br/>
+**Backend:**
 c# , asp.net core wep api,entity framework (code first from database) ,
 library Browse from nuget manager:<br/>
 ExcelDataReader, system.text.encoding.codespages, system.text.encoding.codes   for  reading excel sheet <br/>
-Frontend:<br/>
+**Frontend:**<br/>
 angular 7, bootstrap 4
-Database:<br/>
+**Database:**<br/>
 sql server 2016<br/>
 
-IDE:<br/>
+>**IDE:**<br/>
 visual studio 2017<br/>
 visual studio code<br/>
 
-#**steps to run:**<br/>
+>**steps to run:**<br/>
  after downloading project<br/>
  1-restore PharamaDB.bak  in sql server 2016<br/>
  2-open  backend project  using visual studio <br/> 
