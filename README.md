@@ -1,5 +1,5 @@
 # PharmaProject
-This project used to update data table in database  through   upload excel sheet data  
+This project used to update data table seller products table  in database  through   upload excel sheet data  
 #**Technology**<br/>
 Backend:
 c# , asp.net core wep api,entity framework ,
@@ -16,12 +16,13 @@ visual studio code<br/>
 
 #**steps to run:**<br/>
  after downloading project<br/>
- 1-open  backend project  using visual studio 2017 or 2019<br/> 
- 2-update  appsettings.json  file   (update (Server) at sqlcon in connection string  with sql server instance)<br/>
- 3-run project <br/>
- 4-open front end project with visual studio code<br/>
- 5-run project  using command  (ng serve -o)  in terminal<br/>
- 6- after run angular project    will display simple form  
+ 1-restore PharamaDB.bak  in sql server
+ 2-open  backend project  using visual studio 2017 or 2019<br/> 
+ 3-update  appsettings.json  file   (update (Server) at sqlcon in connection string  with sql server instance)<br/>
+ 4-run project <br/>
+ 5-open front end project with visual studio code<br/>
+ 6-run project  using command  (ng serve -o)  in terminal<br/>
+ 7- after run angular project    will display simple form  
  it contains  browse  file , upload button  and update button <br/>
   browse  update file  then  click on upload<br/>
    then  update to update data of discount column in sellers products
