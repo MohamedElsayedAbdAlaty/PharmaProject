@@ -17,7 +17,7 @@ visual studio code<br/>
 
 #**steps to run:**<br/>
  after downloading project<br/>
- 1-restore PharamaDB.bak  in sql server
+ 1-restore PharamaDB.bak  in sql server 2016<br/>
  2-open  backend project  using visual studio <br/> 
  3-update  appsettings.json  file   (update (Server) at sqlcon in connection string  with sql server instance)<br/>
  4-run project <br/>
