@@ -1,20 +1,20 @@
 # PharmaProject
 This project used to update data table in database  through   upload excel sheet data  
-#Technology
+#Technology<br/>
 Backend:
 c# , asp.net core wep api,entity framework ,
-library Browse from nuget manager:
+library Browse from nuget manager:<br/>
 ExcelDataReader, system.text.encoding.codespages, system.text.encoding.codes
-Frontend:
+Frontend:<br/>
 angular 7, bootstrap 4
-Database:
-sql server 2016
+Database:<br/>
+sql server 2016<br/>
 
-IDE:
-visual studio 2017
-visual studio code
+IDE:<br/>
+visual studio 2017<br/>
+visual studio code<br/>
 
-#steps to run:
+#steps to run:<br/>
  after downloading project
  1-open  backend project  using visual studio 2017 or 2019 
  2-update  appsettings.json  file   (update (Server) at sqlcon in connection string  with sql server instance)
